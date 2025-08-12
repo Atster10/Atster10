@@ -1,4 +1,5 @@
 # 💫 About Me:
+IT Student and growing script kiddie
 🔭 I’m currently working on Delphi Programming<br>🌱 I’m currently learning Cyber Security Basics<br>⚡ Grey Hat
 
 
