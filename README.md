@@ -1,6 +1,8 @@
 # 💫 About Me:
 IT Student and current script kiddie
-🔭 I’m currently working on Delphi Programming<br>🌱 I’m currently learning Cyber Security Basics<br>🎩 Grey Hat
+🔭 I’m currently working on Delphi Programming<br>
+🌱 I’m currently learning Cyber Security Basics<br>
+🎩 Grey Hat
 
 # Programming Languages i have worked with:
  ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
