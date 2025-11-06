@@ -1,6 +1,6 @@
 # 💫 About Me:
 IT Student and current script kiddie
-🔭 I’m currently working on Delphi Programming<br>🌱 I’m currently learning Cyber Security Basics<br>⚡ Grey Hat
+🔭 I’m currently working on Delphi Programming<br>🌱 I’m currently learning Cyber Security Basics<br>🎩 Grey Hat
 
 
 # 💻 Tech Stack:
