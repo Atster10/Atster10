@@ -1,5 +1,6 @@
 # 💫 About Me:
 IT Student and current script kiddie <br>
+Studying AI Workflows for creating AI Apps and Features
 🌱 I’m currently learning Cyber Security Basics <br>
 🎩 Grey Hat
 
