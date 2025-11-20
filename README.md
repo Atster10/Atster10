@@ -1,8 +1,6 @@
 # 💫 About Me:
 IT Student and current script kiddie <br>
 Studying AI Workflows for creating AI Apps and Features <br>
-🌱 I’m currently learning Cyber Security Basics <br>
-🎩 Grey Hat
 
 # Programming Languages:
  ![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white) 
