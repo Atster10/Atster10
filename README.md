@@ -13,7 +13,7 @@ Studying AI Workflows for creating AI Apps and Features <br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-![](https://camo.githubusercontent.com/20172a0b8c2794262cc8084eb0bd2d4a0e9426676951741cd9735204666eeea0/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d746f6b796f6e69676874)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Atster10&icon=0&color=0)](https://visitcount.itsvg.in)
