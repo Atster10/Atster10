@@ -14,7 +14,9 @@ Studying AI Workflows for creating AI Apps and Features <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+<p align="center">
+    <img src="./assets/audio-eq.svg" width="600" alt="Audio visualizer equalizer" />
+  </p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Atster10&icon=0&color=0)](https://visitcount.itsvg.in)
 
