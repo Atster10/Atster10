@@ -9,7 +9,7 @@
         <stop offset="70%" stop-color="#2f80ff"/>
         <stop offset="84%" stop-color="#8f45ff"/>
         <stop offset="100%" stop-color="#ff4fd8"/>
-        <animateTransform attributeName="gradientTransform" type="translate" from="-260 0" to="260 0" dur="2.4s"
+        <animateTransform attributeName="gradientTransform" type="translate" from="-220 0" to="220 0" dur="1.8s"
   repeatCount="indefinite"/>
       </linearGradient>
 
@@ -25,11 +25,8 @@
     <rect width="1200" height="180" fill="#1f1c1f"/>
 
     <path opacity="0.24" fill="none" stroke="url(#wave)" stroke-width="10" stroke-linecap="round" stroke-
-  linejoin="round" filter="url(#glow)"
-      d="M8 126 C48 126,68 126,108 126 C148 126,168 126,208 126 C248 126,268 126,308 126 C348 126,368 126,408 126
-  C448 126,468 126,508 126 C548 126,568 126,608 126 C648 126,668 126,708 126 C748 126,768 126,808 126 C848 126,868
-  126,908 126 C948 126,968 126,1008 126 C1048 126,1068 126,1108 126 C1148 126,1168 126,1192 126">
-      <animate attributeName="d" dur="3.8s" repeatCount="indefinite" values="
+  linejoin="round" filter="url(#glow)">
+      <animate attributeName="d" dur="2.6s" repeatCount="indefinite" values="
   M8 126 C48 122,68 122,108 118 C148 116,168 116,208 120 C248 124,268 124,308 116 C348 98,368 98,408 58 C448
   18,468 18,508 122 C548 20,568 20,608 62 C648 98,668 98,708 112 C748 104,768 104,808 116 C848 108,868 108,908 118
   C948 114,968 114,1008 120 C1048 116,1068 116,1108 122 C1148 126,1168 126,1192 126;
@@ -92,8 +89,9 @@
   C948 114,968 114,1008 120 C1048 116,1068 116,1108 122 C1148 126,1168 126,1192 126"/>
     </path>
 
-    <path opacity="0.9" fill="none" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
-      <animate attributeName="d" dur="3.8s" repeatCount="indefinite" values="
+    <path opacity="0.95" fill="none" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" stroke-
+  linejoin="round" filter="url(#glow)">
+      <animate attributeName="d" dur="2.6s" repeatCount="indefinite" values="
   M8 126 C48 122,68 122,108 118 C148 116,168 116,208 120 C248 124,268 124,308 116 C348 98,368 98,408 58 C448
   18,468 18,508 122 C548 20,568 20,608 62 C648 98,668 98,708 112 C748 104,768 104,808 116 C848 108,868 108,908 118
   C948 114,968 114,1008 120 C1048 116,1068 116,1108 122 C1148 126,1168 126,1192 126;
