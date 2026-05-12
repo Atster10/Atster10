@@ -21,6 +21,3 @@ Studying AI Workflows for creating AI Apps and Features <br>
 <p align="center">
     <img src="assets/audio-eq.svg" width="100%" alt="Animated rainbow audio waveform">
   </p>
-
-
-
