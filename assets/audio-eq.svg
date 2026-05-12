@@ -92,8 +92,7 @@
   C948 114,968 114,1008 120 C1048 116,1068 116,1108 122 C1148 126,1168 126,1192 126"/>
     </path>
 
-    <path opacity="0.9" fill="none" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" stroke-
-  linejoin="round" filter="url(#glow)">
+    <path opacity="0.9" fill="none" stroke="url(#wave)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
       <animate attributeName="d" dur="3.8s" repeatCount="indefinite" values="
   M8 126 C48 122,68 122,108 118 C148 116,168 116,208 120 C248 124,268 124,308 116 C348 98,368 98,408 58 C448
   18,468 18,508 122 C548 20,568 20,608 62 C648 98,668 98,708 112 C748 104,768 104,808 116 C848 108,868 108,908 118
