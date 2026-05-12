@@ -19,5 +19,6 @@ Studying AI Workflows for creating AI Apps and Features <br>
 [![](https://visitcount.itsvg.in/api?id=Atster10&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-    <img src="./assets/audio-eq.svg" width="600" alt="Audio visualizer equalizer" />
+    <img src="assets/audio-eq.svg" width="900" alt="Animated rainbow audio waveform">
   </p>
+
